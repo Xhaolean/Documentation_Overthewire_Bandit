@@ -1,4 +1,4 @@
-🛡️ OverTheWire: Bandit — Complete Walkthrough & Documentation
+# OverTheWire: Bandit — Complete Walkthrough & Documentation
 
 Welcome to my OverTheWire: Bandit cybersecurity learning repository.
 
