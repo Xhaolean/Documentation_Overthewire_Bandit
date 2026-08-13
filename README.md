@@ -8,11 +8,11 @@ The goal is not simply to collect passwords, but to build a practical understand
 
 ---
 
-📌 About OverTheWire Bandit
+# 📌 About OverTheWire Bandit
 
 Bandit is a beginner-oriented Linux wargame hosted by OverTheWire. Each level presents a security-related challenge that requires investigation and problem-solving from the command line.
 
-Key Learning Areas
+## Key Learning Areas
 
 - 🐧 Linux CLI & Navigation
   
@@ -101,7 +101,7 @@ Bandit/
 
 ---
 
-📊 Progress & Learning Log
+# 📊 Progress & Learning Log
 
 Level| Focus Concept| Writeup| Status
 00 → 01| SSH Connection & Basic Credentials| "Level 00 → 01" (Levels/Level00_01.md)| ✅ Completed
@@ -143,7 +143,7 @@ Level| Focus Concept| Writeup| Status
 
 ---
 
-🧪 Documentation Methodology
+# 🧪 Documentation Methodology
 
 For each level, I document:
 
@@ -159,7 +159,7 @@ The focus is on understanding the methodology rather than simply recording the f
 
 ---
 
-💻 Environment Setup
+# 💻 Environment Setup
 
 The Bandit server can be accessed through SSH.
 
@@ -194,7 +194,7 @@ The exact commands used will vary depending on the challenge.
 
 ---
 
-🧠 What I Am Learning
+# 🧠 What I Am Learning
 
 This repository is helping me build practical foundations in:
 
@@ -239,7 +239,7 @@ SSH
 
 ---
 
-⚠️ Responsible Use
+# ⚠️ Responsible Use
 
 All techniques documented here are performed within the intentionally vulnerable OverTheWire Bandit environment.
 
@@ -249,14 +249,14 @@ These techniques should only be applied to systems where I have explicit authori
 
 ---
 
-📚 Resources
+# 📚 Resources
 
 - OverTheWire: https://overthewire.org/
 - Bandit: https://overthewire.org/wargames/bandit/
 
 ---
 
-👤 About This Repository
+# 👤 About This Repository
 
 This is a personal cybersecurity learning project.
 
