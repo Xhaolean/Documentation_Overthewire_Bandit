@@ -101,7 +101,7 @@ Bandit/
 
 ---
 
-# 🧪 Documentation Methodology
+# 🧪 Documentation Format
 
 For each level, I document:
 
@@ -112,8 +112,6 @@ For each level, I document:
 5. Solution — How the challenge was solved.
 6. Concept Learned — The underlying Linux/security concept.
 7. Mistakes & Lessons — Problems encountered and how I corrected them.
-
-The focus is on understanding the methodology rather than simply recording the final answer.
 
 ---
 
@@ -152,7 +150,7 @@ The exact commands used will vary depending on the challenge.
 
 ---
 
-# 🧠 What I Am Learning
+# 🧠 Currently Learning
 
 This repository is helping me build practical foundations in:
 
@@ -167,8 +165,6 @@ This repository is helping me build practical foundations in:
 - Process automation
 - Git security
 - Security-oriented problem solving
-
-These concepts form part of my broader cybersecurity learning journey.
 
 ---
 
@@ -215,9 +211,4 @@ These techniques should only be applied to systems where I have explicit authori
 ---
 
 # 👤 About This Repository
-
-This is a personal cybersecurity learning project.
-
 Rather than only documenting whether I completed a challenge, I am using the repository as a technical record of what I investigated, why I made certain decisions, what went wrong, and what I learned from the process.
-
-The documentation will continue to evolve as I progress through the remaining Bandit levels.
