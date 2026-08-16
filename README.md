@@ -4,7 +4,7 @@ Welcome to my OverTheWire: Bandit cybersecurity learning repository.
 
 This repository documents my hands-on progress through the Bandit wargame, including the commands I used, the reasoning behind each solution, Linux concepts learned, mistakes encountered, and important security concepts.
 
-The goal is not simply to collect passwords, but to build a practical understanding of Linux, command-line tools, networking, authentication, file permissions, automation, and basic security concepts.
+The goal is to build a practical understanding of Linux, command-line tools, networking, authentication, file permissions, automation, and basic security concepts.
 
 ---
 
@@ -106,12 +106,11 @@ Bandit/
 For each level, I document:
 
 1. Objective — What the challenge is asking.
-2. Initial Investigation — What I inspected before attempting a solution.
-3. Commands Used — Relevant Linux commands and syntax.
-4. Reasoning — Why each command was used.
-5. Solution — How the challenge was solved.
-6. Concept Learned — The underlying Linux/security concept.
-7. Mistakes & Lessons — Problems encountered and how I corrected them.
+2. Commands Used — Relevant Linux commands and syntax.
+3. Reasoning — Why each command was used.
+4. Solution — How the challenge was solved.
+5. Concept Learned — The underlying Linux/security concept.
+6. Mistakes & Lessons
 
 ---
 
