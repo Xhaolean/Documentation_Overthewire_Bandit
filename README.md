@@ -76,7 +76,7 @@ Bandit is a beginner-oriented Linux wargame hosted by OverTheWire. Each level pr
 
 ---
 
-📂 Repository Structure
+# 📂 Repository Structure
 
 Bandit/
 │
