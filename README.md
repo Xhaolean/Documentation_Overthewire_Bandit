@@ -8,7 +8,7 @@ The goal is to build a practical understanding of Linux, command-line tools, net
 
 ---
 
-# 📌 About OverTheWire Bandit
+# About OverTheWire Bandit
 
 Bandit is a beginner-oriented Linux wargame hosted by OverTheWire. Each level presents a security-related challenge that requires investigation and problem-solving from the command line.
 
@@ -102,9 +102,6 @@ Bandit/
 ---
 
 # 🧪 Documentation Format
-
-For each level, I document:
-
 1. Objective — What the challenge is asking.
 2. Commands Used — Relevant Linux commands and syntax.
 3. Reasoning — Why each command was used.
@@ -144,7 +141,6 @@ tr
 xxd
 base64
 ssh
-
 The exact commands used will vary depending on the challenge.
 
 ---
@@ -167,39 +163,10 @@ This repository is helping me build practical foundations in:
 
 ---
 
-📈 Progress
-
-Current Level: 11 → 12
-
-Levels Completed: 11
-
-Levels Remaining: 23
-
-Primary Tools Learned So Far:
-
-Linux CLI
-grep
-sort
-uniq
-strings
-file
-find
-cut
-tr
-base64
-xxd
-SSH
-
----
-
 # ⚠️ Responsible Use
 
 All techniques documented here are performed within the intentionally vulnerable OverTheWire Bandit environment.
-
-The purpose of this repository is educational: to document my learning, improve my Linux and cybersecurity skills, and demonstrate my problem-solving process.
-
-These techniques should only be applied to systems where I have explicit authorization to test.
-
+These techniques should only be applied to systems where we have explicit authorization to test.
 ---
 
 # 📚 Resources
@@ -210,4 +177,4 @@ These techniques should only be applied to systems where I have explicit authori
 ---
 
 # 👤 About This Repository
-Rather than only documenting whether I completed a challenge, I am using the repository as a technical record of what I investigated, why I made certain decisions, what went wrong, and what I learned from the process.
+This repo will be a technical record of what I investigated and what went wrong, and what I learned from the process.
